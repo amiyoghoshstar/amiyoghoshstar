@@ -33,4 +33,5 @@ I'm [Amiyo Ghosh](https://amiyoghoshstart.space), a passionate developer 😤 fr
 ---
 ### How to reach me?
 <a href="mailto:amiyoghosh00@gmail.com"><img src="https://i.ibb.co/R75YRCr/email.png" alt="email" border="0"></a>
+<a href="https://twitter.com/amiyo_ghosh_"><img src="https://i.ibb.co/G9Syq2s/twitter.png" alt="twitter" border="0"></a>
 
