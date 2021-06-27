@@ -30,6 +30,7 @@ I'm [Amiyo Ghosh](https://amiyoghoshstart.space), a passionate developer 😤 fr
 ---
 ### Amiyo's GitHub stats
 [![Amiyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiyoghoshstar)](https://github.com/amiyoghoshstar/amiyoghoshstar)
+---
+### How to reach me?
+<a href="mailto:amiyoghosh00@gmail.com"><img src="https://i.ibb.co/R75YRCr/email.png" alt="email" border="0"></a>
 
-### Amiyo's Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiyoghoshstar&layout=compact)](https://github.com/amiyoghoshstar/amiyoghoshstar)
