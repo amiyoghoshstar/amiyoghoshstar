@@ -26,4 +26,9 @@ I'm [Amiyo Ghosh](https://amiyoghoshstart.space), a passionate developer 😤 fr
 
 ### Recent Activites 🦾
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1339](https://github.com/spatie/laravel-backup/issues/1339) in [spatie/laravel-backup](https://github.com/spatie/laravel-backup)
+2. 💪 Opened PR [#1339](https://github.com/spatie/laravel-backup/pull/1339) in [spatie/laravel-backup](https://github.com/spatie/laravel-backup)
+3. 🎉 Merged PR [#1](https://github.com/amiyoghoshstar/laravel-backup/pull/1) in [amiyoghoshstar/laravel-backup](https://github.com/amiyoghoshstar/laravel-backup)
+4. 💪 Opened PR [#1](https://github.com/amiyoghoshstar/laravel-backup/pull/1) in [amiyoghoshstar/laravel-backup](https://github.com/amiyoghoshstar/laravel-backup)
+5. ❗️ Closed issue [#53](https://github.com/livewire-ui/modal/issues/53) in [livewire-ui/modal](https://github.com/livewire-ui/modal)
 <!--END_SECTION:activity-->
